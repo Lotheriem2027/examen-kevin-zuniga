@@ -1,0 +1,54 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.menu {
+    margin-top: 100px;
+}
+
+.boton1 {
+    display: inline-block;
+    background-color: #ae0cb1;
+    color: white;
+    width: 150px;
+    line-height: 150px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.boton2 {
+    display: inline-block;
+    background-color: #8bc719;
+    color: white;
+    width: 150px;
+    line-height: 150px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.formulario {
+    background-color: white;
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
